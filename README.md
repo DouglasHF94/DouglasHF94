@@ -2,9 +2,10 @@
 
 ## Intro
 
-Devoloper since 2023, working mainly in JavaScript projects, using
+I've been a front-end web developer since 2023
 
-- React,js (Next,js)
-- Node.js (Express, Nest.js)
-- React Native
+-HTML
+-CSS
+-JavaScript
+-React
 
